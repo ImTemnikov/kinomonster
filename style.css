@@ -3,6 +3,16 @@
     padding: 0;
 }
 
+body {
+    font-size: 1.2em;
+    background-color: #fff;
+    color: #555;
+}
+
+p {
+    padding:  ;
+}
+
 input[type="text"], input[type="password"], input[type="search"] {
     color: #5d5d5d;
     width: 60%;
@@ -139,3 +149,4 @@ ul.menu li a:hover {
     margin-top: 3%;
     margin-left: 2%;
 }
+
